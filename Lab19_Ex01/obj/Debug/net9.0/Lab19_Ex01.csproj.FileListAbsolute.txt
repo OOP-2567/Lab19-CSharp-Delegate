@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\bin\Debug\net9.0\Lab19_Ex01.exe
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\bin\Debug\net9.0\Lab19_Ex01.deps.json
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\bin\Debug\net9.0\Lab19_Ex01.runtimeconfig.json
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\bin\Debug\net9.0\Lab19_Ex01.dll
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\bin\Debug\net9.0\Lab19_Ex01.pdb
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.AssemblyInfo.cs
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.sourcelink.json
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.dll
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\refint\Lab19_Ex01.dll
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.pdb
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\Lab19_Ex01.genruntimeconfig.cache
+C:\Users\asus\Documents\LAB19\Lab19-CSharp-Delegate\Lab19_Ex01\obj\Debug\net9.0\ref\Lab19_Ex01.dll
