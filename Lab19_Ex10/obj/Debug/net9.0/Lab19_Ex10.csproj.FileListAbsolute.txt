@@ -1,0 +1,15 @@
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\bin\Debug\net9.0\Lab19_Ex10.exe
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\bin\Debug\net9.0\Lab19_Ex10.deps.json
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\bin\Debug\net9.0\Lab19_Ex10.runtimeconfig.json
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\bin\Debug\net9.0\Lab19_Ex10.dll
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\bin\Debug\net9.0\Lab19_Ex10.pdb
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.AssemblyInfoInputs.cache
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.AssemblyInfo.cs
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.sourcelink.json
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.dll
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\refint\Lab19_Ex10.dll
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.pdb
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\Lab19_Ex10.genruntimeconfig.cache
+C:\Users\nnarat\Lab19-CSharp-Delegate\Lab19_Ex10\obj\Debug\net9.0\ref\Lab19_Ex10.dll
