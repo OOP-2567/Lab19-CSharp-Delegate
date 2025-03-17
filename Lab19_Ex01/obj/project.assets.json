@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nnarat\\Lab19-CSharp-Delegate\\Lab19_Ex01\\Lab19_Ex01.csproj",
+      "projectUniqueName": "C:\\Users\\nnarat\\Lab19-CSharp-Delegate\\Lab19-CSharp-Delegate\\Lab19_Ex01\\Lab19_Ex01.csproj",
       "projectName": "Lab19_Ex01",
-      "projectPath": "C:\\Users\\nnarat\\Lab19-CSharp-Delegate\\Lab19_Ex01\\Lab19_Ex01.csproj",
+      "projectPath": "C:\\Users\\nnarat\\Lab19-CSharp-Delegate\\Lab19-CSharp-Delegate\\Lab19_Ex01\\Lab19_Ex01.csproj",
       "packagesPath": "C:\\Users\\nnarat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nnarat\\Lab19-CSharp-Delegate\\Lab19_Ex01\\obj\\",
+      "outputPath": "C:\\Users\\nnarat\\Lab19-CSharp-Delegate\\Lab19-CSharp-Delegate\\Lab19_Ex01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nnarat\\AppData\\Roaming\\NuGet\\NuGet.Config"
