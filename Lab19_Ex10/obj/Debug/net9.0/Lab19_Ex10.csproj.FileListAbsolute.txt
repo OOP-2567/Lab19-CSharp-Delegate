@@ -1,0 +1,15 @@
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/bin/Debug/net9.0/Lab19_Ex10
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/bin/Debug/net9.0/Lab19_Ex10.deps.json
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/bin/Debug/net9.0/Lab19_Ex10.runtimeconfig.json
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/bin/Debug/net9.0/Lab19_Ex10.dll
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/bin/Debug/net9.0/Lab19_Ex10.pdb
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.AssemblyInfoInputs.cache
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.AssemblyInfo.cs
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.csproj.CoreCompileInputs.cache
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.sourcelink.json
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.dll
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/refint/Lab19_Ex10.dll
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.pdb
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/Lab19_Ex10.genruntimeconfig.cache
+/Users/ohmies/Documents/GitHub/OOP/Lab19-CSharp-Delegate/Lab19_Ex10/obj/Debug/net9.0/ref/Lab19_Ex10.dll
