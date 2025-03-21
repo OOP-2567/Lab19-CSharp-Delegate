@@ -1,0 +1,15 @@
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\bin\Debug\net8.0\Lab19_Ex06.exe
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\bin\Debug\net8.0\Lab19_Ex06.deps.json
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\bin\Debug\net8.0\Lab19_Ex06.runtimeconfig.json
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\bin\Debug\net8.0\Lab19_Ex06.dll
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\bin\Debug\net8.0\Lab19_Ex06.pdb
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.AssemblyInfoInputs.cache
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.AssemblyInfo.cs
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.csproj.CoreCompileInputs.cache
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.sourcelink.json
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.dll
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\refint\Lab19_Ex06.dll
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.pdb
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\Lab19_Ex06.genruntimeconfig.cache
+C:\oop_2567\Lab19-CSharp-Delegate\Lab19_Ex06\obj\Debug\net8.0\ref\Lab19_Ex06.dll
